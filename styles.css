@@ -2,6 +2,30 @@
     background-color: rgb(254, 195, 136);
 }
 
-li {
-    font-size: 20px; 
+
+h1, h2, p, li {
+    font-family: Arial, Verdana, Tahoma, "Trebuchet MS";
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+li, p {
+    font-size: 20px;
+}
+
+.option {
+    font-size: 22px;
+}
+
+img {
+    width: 450px;
+    height: auto;
 }
